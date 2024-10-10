@@ -1,5 +1,5 @@
 
-import GoogleSignIn from "@/app/components/GoogleSignIn";
+import GoogleSignIn from "../components/GoogleSignin";
 
 const GoogleSignInTestPage = () => {
   return (
